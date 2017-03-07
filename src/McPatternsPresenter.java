@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class McPatternsPresenter {
-    //This is the class that will handle the model <-> UI communication.
     private String file;
     private ArrayList<MenuModel> menu;
     private McPatternsGUI view;
