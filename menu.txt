@@ -1,0 +1,8 @@
+Piece of Hamburger|3.99
+Piece of Chicken Sandwich|3.29
+Hotdog on a Stick|2.99
+Taco|1.49
+Burrito|3.29
+Lobster|99.99
+Jarritos|1.29
+Milkshake|5.00
