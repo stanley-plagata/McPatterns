@@ -5,7 +5,6 @@ public class DiscoverCC extends CreditCard{
 	public DiscoverCC(String CCNumber) {
 		super(CCNumber);
 		this.setCardType("Discover");
-		// TODO Auto-generated constructor stub
 	}
 	
 	public static boolean isDiscover(CreditCard card) {
