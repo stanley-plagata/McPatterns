@@ -5,7 +5,6 @@ public class AmExCC extends CreditCard {
 	public AmExCC(String CCNumber) {
 		super(CCNumber);
 		this.setCardType("AmEx");
-		// TODO Auto-generated constructor stub
 	}
 	
 	public static boolean isAmEx(CreditCard card) {
