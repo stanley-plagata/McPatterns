@@ -5,7 +5,6 @@ public class VisaCC extends CreditCard {
 	public VisaCC(String CCNumber) {
 		super(CCNumber);
 		this.setCardType("Visa");
-		// TODO Auto-generated constructor stub
 	}
 	
 	public static boolean isVisa(CreditCard card) {
