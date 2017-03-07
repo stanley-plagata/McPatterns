@@ -5,7 +5,6 @@ public class MasterCC extends CreditCard {
 	public MasterCC(String CCNumber) {
 		super(CCNumber);
 		this.setCardType("Master");
-		// TODO Auto-generated constructor stub
 	}
 	
 	public static boolean isMaster(CreditCard card) {
